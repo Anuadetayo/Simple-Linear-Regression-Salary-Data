@@ -1,4 +1,4 @@
-# Simple Linear Regression Using OLS
+# Simple Linear Regression Using OLS (Data Science)
  
 Performing Linear regression on a data that comprises of two columns, which are Salary, YearsExpreience.
 The salary is the dependent variable while the Years of experience is the independent variable.
